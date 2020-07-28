@@ -1,0 +1,13 @@
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/bin/Debug/netcoreapp3.1/July_2020_dotnet_example
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/bin/Debug/netcoreapp3.1/July_2020_dotnet_example.deps.json
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/bin/Debug/netcoreapp3.1/July_2020_dotnet_example.runtimeconfig.json
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/bin/Debug/netcoreapp3.1/July_2020_dotnet_example.runtimeconfig.dev.json
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/bin/Debug/netcoreapp3.1/July_2020_dotnet_example.dll
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/bin/Debug/netcoreapp3.1/July_2020_dotnet_example.pdb
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/obj/Debug/netcoreapp3.1/July_2020_dotnet_example.csprojAssemblyReference.cache
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/obj/Debug/netcoreapp3.1/July_2020_dotnet_example.AssemblyInfoInputs.cache
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/obj/Debug/netcoreapp3.1/July_2020_dotnet_example.AssemblyInfo.cs
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/obj/Debug/netcoreapp3.1/July_2020_dotnet_example.csproj.CoreCompileInputs.cache
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/obj/Debug/netcoreapp3.1/July_2020_dotnet_example.dll
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/obj/Debug/netcoreapp3.1/July_2020_dotnet_example.pdb
+/home/joelhill/Documents/scrap/July_2020_dotnet_example/obj/Debug/netcoreapp3.1/July_2020_dotnet_example.genruntimeconfig.cache
